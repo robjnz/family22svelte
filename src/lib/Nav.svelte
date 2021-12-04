@@ -9,8 +9,7 @@
 		<div>
 			<ul class="text-right">
 				<a href=".">Home</a>
-				<a href="new">New</a>
-				<a href="test">Test</a>
+				
 			</ul>
 		</div>
 	</div>
