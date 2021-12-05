@@ -4696,16 +4696,16 @@ var init_shims = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/__layout-3f735bba.js
-var layout_3f735bba_exports = {};
-__export(layout_3f735bba_exports, {
+// .svelte-kit/output/server/chunks/__layout-39f20071.js
+var layout_39f20071_exports = {};
+__export(layout_39f20071_exports, {
   default: () => _layout
 });
 var css$a, Nav, css$9, TheFooter, css$8, Australasia, css$7, Caribbean, css$6, Europe, css$5, Jewish, css$4, Northamerica, css$3, Blog, css$2, General, css$1, Dropdown, css, _layout;
-var init_layout_3f735bba = __esm({
-  ".svelte-kit/output/server/chunks/__layout-3f735bba.js"() {
+var init_layout_39f20071 = __esm({
+  ".svelte-kit/output/server/chunks/__layout-39f20071.js"() {
     init_shims();
-    init_app_f1527953();
+    init_app_ab8debb0();
     css$a = {
       code: ".bg-teal-500.svelte-1a2snzq{--tw-bg-opacity:1;background-color:rgba(20, 184, 166, var(--tw-bg-opacity))}.grid.svelte-1a2snzq{display:-ms-grid;display:grid}.h-10.svelte-1a2snzq{height:2.5rem}.text-4xl.svelte-1a2snzq{font-size:2.25rem;line-height:2.5rem}.m-2.svelte-1a2snzq{margin:0.5rem}.p-4.svelte-1a2snzq{padding:1rem}.text-right.svelte-1a2snzq{text-align:right}.text-gray-200.svelte-1a2snzq{--tw-text-opacity:1;color:rgba(229, 231, 235, var(--tw-text-opacity))}.gap-4.svelte-1a2snzq{grid-gap:1rem;gap:1rem}.grid-cols-3.svelte-1a2snzq{grid-template-columns:repeat(3, minmax(0, 1fr))}",
       map: null
@@ -4911,9 +4911,9 @@ ${validate_component(TheFooter, "TheFooter").$$render($$result, {}, {}, {})}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/error-3c2f1a06.js
-var error_3c2f1a06_exports = {};
-__export(error_3c2f1a06_exports, {
+// .svelte-kit/output/server/chunks/error-7f533b05.js
+var error_7f533b05_exports = {};
+__export(error_7f533b05_exports, {
   default: () => Error2,
   load: () => load
 });
@@ -4921,10 +4921,10 @@ function load({ error: error2, status }) {
   return { props: { error: error2, status } };
 }
 var Error2;
-var init_error_3c2f1a06 = __esm({
-  ".svelte-kit/output/server/chunks/error-3c2f1a06.js"() {
+var init_error_7f533b05 = __esm({
+  ".svelte-kit/output/server/chunks/error-7f533b05.js"() {
     init_shims();
-    init_app_f1527953();
+    init_app_ab8debb0();
     Error2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       let { status } = $$props;
       let { error: error2 } = $$props;
@@ -4944,17 +4944,17 @@ ${error2.stack ? `<pre>${escape(error2.stack)}</pre>` : ``}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/index-456f647b.js
-var index_456f647b_exports = {};
-__export(index_456f647b_exports, {
+// .svelte-kit/output/server/chunks/index-c4866d0a.js
+var index_c4866d0a_exports = {};
+__export(index_c4866d0a_exports, {
   default: () => Routes,
   prerender: () => prerender
 });
 var css2, prerender, Routes;
-var init_index_456f647b = __esm({
-  ".svelte-kit/output/server/chunks/index-456f647b.js"() {
+var init_index_c4866d0a = __esm({
+  ".svelte-kit/output/server/chunks/index-c4866d0a.js"() {
     init_shims();
-    init_app_f1527953();
+    init_app_ab8debb0();
     css2 = {
       code: ".one.svelte-1quiifg{text-align:center;margin-top:50px;margin-left:100px;margin-right:100px}.grid.svelte-1quiifg{display:-ms-grid;display:grid}.h-96.svelte-1quiifg{height:24rem}.text-6xl.svelte-1quiifg{font-size:3.75rem;line-height:1}.text-3xl.svelte-1quiifg{font-size:1.875rem;line-height:2.25rem}.text-xl.svelte-1quiifg{font-size:1.25rem;line-height:1.75rem}.object-fill.svelte-1quiifg{-o-object-fit:fill;object-fit:fill}.p-4.svelte-1quiifg{padding:1rem}.text-left.svelte-1quiifg{text-align:left}.text-center.svelte-1quiifg{text-align:center}.text-purple-500.svelte-1quiifg{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.text-purple-400.svelte-1quiifg{--tw-text-opacity:1;color:rgba(167, 139, 250, var(--tw-text-opacity))}.text-gray-600.svelte-1quiifg{--tw-text-opacity:1;color:rgba(75, 85, 99, var(--tw-text-opacity))}.w-full.svelte-1quiifg{width:100%}.gap-4.svelte-1quiifg{grid-gap:1rem;gap:1rem}.grid-cols-2.svelte-1quiifg{grid-template-columns:repeat(2, minmax(0, 1fr))}",
       map: null
@@ -4988,22 +4988,22 @@ var init_index_456f647b = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/newzealand-ef7f609e.js
-var newzealand_ef7f609e_exports = {};
-__export(newzealand_ef7f609e_exports, {
+// .svelte-kit/output/server/chunks/newzealand-e95c4590.js
+var newzealand_e95c4590_exports = {};
+__export(newzealand_e95c4590_exports, {
   default: () => Newzealand,
   prerender: () => prerender2
 });
-var css$52, Nzstate, css$42, Historical, css$32, Gazette, css$22, Companies, css$12, Auckland, css3, prerender2, Newzealand;
-var init_newzealand_ef7f609e = __esm({
-  ".svelte-kit/output/server/chunks/newzealand-ef7f609e.js"() {
+var css$52, Nzstatearchives, css$42, Historical, css$32, Gazette, css$22, Companies, css$12, Auckland, css3, prerender2, Newzealand;
+var init_newzealand_e95c4590 = __esm({
+  ".svelte-kit/output/server/chunks/newzealand-e95c4590.js"() {
     init_shims();
-    init_app_f1527953();
+    init_app_ab8debb0();
     css$52 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
       map: null
     };
-    Nzstate = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+    Nzstatearchives = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css$52);
       return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">State Archives</h1>
 
@@ -5102,23 +5102,23 @@ var init_newzealand_ef7f609e = __esm({
 		${validate_component(Gazette, "Gazette").$$render($$result, {}, {}, {})}</div>
 
 	<div class="${"grid sm:flex gap-4 mt-8 one svelte-9gvjug"}">${validate_component(Historical, "Historical").$$render($$result, {}, {}, {})}
-		${validate_component(Nzstate, "Nzstate").$$render($$result, {}, {}, {})}</div>
+		${validate_component(Nzstatearchives, "Nzstatearchives").$$render($$result, {}, {}, {})}</div>
 </section>`;
     });
   }
 });
 
-// .svelte-kit/output/server/chunks/australia-3b5b0b16.js
-var australia_3b5b0b16_exports = {};
-__export(australia_3b5b0b16_exports, {
+// .svelte-kit/output/server/chunks/australia-494713f6.js
+var australia_494713f6_exports = {};
+__export(australia_494713f6_exports, {
   default: () => Australia,
   prerender: () => prerender3
 });
 var css$23, Ausstate, css$13, Gen, css4, prerender3, Australia;
-var init_australia_3b5b0b16 = __esm({
-  ".svelte-kit/output/server/chunks/australia-3b5b0b16.js"() {
+var init_australia_494713f6 = __esm({
+  ".svelte-kit/output/server/chunks/australia-494713f6.js"() {
     init_shims();
-    init_app_f1527953();
+    init_app_ab8debb0();
     css$23 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
       map: null
@@ -5174,7 +5174,7 @@ var init_australia_3b5b0b16 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/app-f1527953.js
+// .svelte-kit/output/server/chunks/app-ab8debb0.js
 function get_single_valued_header(headers, key) {
   const value = headers[key];
   if (Array.isArray(value)) {
@@ -6450,9 +6450,9 @@ function init(settings = default_settings) {
     amp: false,
     dev: false,
     entry: {
-      file: assets + "/_app/start-6f8ff0b0.js",
+      file: assets + "/_app/start-d100c08d.js",
       css: [assets + "/_app/assets/start-1f089c51.css"],
-      js: [assets + "/_app/start-6f8ff0b0.js", assets + "/_app/chunks/vendor-dad3c69f.js"]
+      js: [assets + "/_app/start-d100c08d.js", assets + "/_app/chunks/vendor-dad3c69f.js"]
     },
     fetched: void 0,
     floc: false,
@@ -6496,8 +6496,8 @@ function render(request, {
   return respond({ ...request, host }, options, { prerender: prerender4 });
 }
 var __accessCheck, __privateGet, __privateAdd, __privateSet, _map, absolute, scheme, chars, unsafeChars, reserved, escaped$1, objectProtoOwnPropertyNames, subscriber_queue, escape_json_string_in_html_dict, escape_html_attr_dict, s$1, s, ReadOnlyFormData, current_component, escaped, missing_component, on_destroy, css5, Root, base, assets, user_hooks, template, options, default_settings, empty, manifest, get_hooks, module_lookup, metadata_lookup;
-var init_app_f1527953 = __esm({
-  ".svelte-kit/output/server/chunks/app-f1527953.js"() {
+var init_app_ab8debb0 = __esm({
+  ".svelte-kit/output/server/chunks/app-ab8debb0.js"() {
     init_shims();
     __accessCheck = (obj, member, msg) => {
       if (!member.has(obj))
@@ -6696,13 +6696,13 @@ ${``}`;
       externalFetch: hooks.externalFetch || fetch
     });
     module_lookup = {
-      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_3f735bba(), layout_3f735bba_exports)),
-      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_3c2f1a06(), error_3c2f1a06_exports)),
-      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_456f647b(), index_456f647b_exports)),
-      "src/routes/newzealand.svelte": () => Promise.resolve().then(() => (init_newzealand_ef7f609e(), newzealand_ef7f609e_exports)),
-      "src/routes/australia.svelte": () => Promise.resolve().then(() => (init_australia_3b5b0b16(), australia_3b5b0b16_exports))
+      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_39f20071(), layout_39f20071_exports)),
+      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_7f533b05(), error_7f533b05_exports)),
+      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_c4866d0a(), index_c4866d0a_exports)),
+      "src/routes/newzealand.svelte": () => Promise.resolve().then(() => (init_newzealand_e95c4590(), newzealand_e95c4590_exports)),
+      "src/routes/australia.svelte": () => Promise.resolve().then(() => (init_australia_494713f6(), australia_494713f6_exports))
     };
-    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-38d49be7.js", "css": ["assets/pages/__layout.svelte-1cb04902.css"], "js": ["pages/__layout.svelte-38d49be7.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-3aac330e.js", "css": [], "js": ["error.svelte-3aac330e.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-4ed49659.js", "css": ["assets/pages/index.svelte-3b776db4.css"], "js": ["pages/index.svelte-4ed49659.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/newzealand.svelte": { "entry": "pages/newzealand.svelte-5bca0516.js", "css": ["assets/pages/newzealand.svelte-81ba39d7.css"], "js": ["pages/newzealand.svelte-5bca0516.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/australia.svelte": { "entry": "pages/australia.svelte-466f2b7c.js", "css": ["assets/pages/australia.svelte-b349f3b9.css"], "js": ["pages/australia.svelte-466f2b7c.js", "chunks/vendor-dad3c69f.js"], "styles": [] } };
+    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-38d49be7.js", "css": ["assets/pages/__layout.svelte-1cb04902.css"], "js": ["pages/__layout.svelte-38d49be7.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-3aac330e.js", "css": [], "js": ["error.svelte-3aac330e.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-4ed49659.js", "css": ["assets/pages/index.svelte-3b776db4.css"], "js": ["pages/index.svelte-4ed49659.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/newzealand.svelte": { "entry": "pages/newzealand.svelte-ab776c5d.js", "css": ["assets/pages/newzealand.svelte-81ba39d7.css"], "js": ["pages/newzealand.svelte-ab776c5d.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/australia.svelte": { "entry": "pages/australia.svelte-466f2b7c.js", "css": ["assets/pages/australia.svelte-b349f3b9.css"], "js": ["pages/australia.svelte-466f2b7c.js", "chunks/vendor-dad3c69f.js"], "styles": [] } };
   }
 });
 
@@ -6714,7 +6714,7 @@ init_shims();
 
 // .svelte-kit/output/server/app.js
 init_shims();
-init_app_f1527953();
+init_app_ab8debb0();
 
 // .svelte-kit/netlify/entry.js
 init();
