@@ -2,8 +2,7 @@
 	<div class="p-6">
 		<h1 class="text-2xl text-white">Historical Records</h1>
 
-		<img
-			class="h-32 w-full object-fill"
+		<img class="h-32 w-full object-fill"
 			src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638704227/nz-birth-cert_sq0auz.jpg"
 			alt="image of newzealand birth cerificates"
 		/>
