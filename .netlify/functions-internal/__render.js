@@ -4696,16 +4696,16 @@ var init_shims = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/__layout-fddc8558.js
-var layout_fddc8558_exports = {};
-__export(layout_fddc8558_exports, {
+// .svelte-kit/output/server/chunks/__layout-ad37eb7b.js
+var layout_ad37eb7b_exports = {};
+__export(layout_ad37eb7b_exports, {
   default: () => _layout
 });
 var css$a, Nav, css$9, TheFooter, css$8, Australasia, css$7, Caribbean, css$6, Europe, css$5, Jewish, css$4, Northamerica, css$3, Blog, css$2, General, css$1, Dropdown, css, _layout;
-var init_layout_fddc8558 = __esm({
-  ".svelte-kit/output/server/chunks/__layout-fddc8558.js"() {
+var init_layout_ad37eb7b = __esm({
+  ".svelte-kit/output/server/chunks/__layout-ad37eb7b.js"() {
     init_shims();
-    init_app_9d084478();
+    init_app_b7574370();
     css$a = {
       code: ".bg-teal-500.svelte-1a2snzq{--tw-bg-opacity:1;background-color:rgba(20, 184, 166, var(--tw-bg-opacity))}.grid.svelte-1a2snzq{display:-ms-grid;display:grid}.h-10.svelte-1a2snzq{height:2.5rem}.text-4xl.svelte-1a2snzq{font-size:2.25rem;line-height:2.5rem}.m-2.svelte-1a2snzq{margin:0.5rem}.p-4.svelte-1a2snzq{padding:1rem}.text-right.svelte-1a2snzq{text-align:right}.text-gray-200.svelte-1a2snzq{--tw-text-opacity:1;color:rgba(229, 231, 235, var(--tw-text-opacity))}.gap-4.svelte-1a2snzq{grid-gap:1rem;gap:1rem}.grid-cols-3.svelte-1a2snzq{grid-template-columns:repeat(3, minmax(0, 1fr))}",
       map: null
@@ -4737,11 +4737,11 @@ var init_layout_fddc8558 = __esm({
     Australasia = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css$8);
       return `<div class="${"group inline-block svelte-agkwle"}"><button class="${"outline-none focus:outline-none border px-3 py-1 bg-white rounded-sm flex items-center min-w-32 svelte-agkwle"}"><span class="${"pr-1 font-semibold flex-1 svelte-agkwle"}">Australasia</span>
-      <span><svg class="${"fill-current h-4 w-4 transform group-hover:-rotate-180 transition duration-150 ease-in-out svelte-agkwle"}" xmlns="${"http://www.w3.org/2000/svg"}" viewBox="${"0 0 20 20"}"><path d="${"M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"}"></path></svg></span></button>
-    <ul class="${"bg-white border rounded-sm transform scale-0 group-hover:scale-100 absolute transition duration-150 ease-in-out origin-top min-w-32 svelte-agkwle"}"><li class="${"rounded-sm px-3 py-1 hover:bg-gray-100 svelte-agkwle"}"><g-link class="${"text-gray-900 hover:text-yellow-600 svelte-agkwle"}" to="${"/Australasia/australiageneral"}">Australia</g-link></li>
+		<span><svg class="${"fill-current h-4 w-4 transform group-hover:-rotate-180 transition duration-150 ease-in-out svelte-agkwle"}" xmlns="${"http://www.w3.org/2000/svg"}" viewBox="${"0 0 20 20"}"><path d="${"M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"}"></path></svg></span></button>
+	<ul class="${"bg-white border rounded-sm transform scale-0 group-hover:scale-100 absolute transition duration-150 ease-in-out origin-top min-w-32 svelte-agkwle"}"><li class="${"rounded-sm px-3 py-1 hover:bg-gray-100 svelte-agkwle"}"><a class="${"text-gray-900 hover:text-yellow-600 svelte-agkwle"}" href="${"/Australasia/australia"}">Australia</a></li>
 
-      <li class="${"rounded-sm px-3 py-1 hover:bg-gray-100 svelte-agkwle"}"><g-link class="${"text-gray-900 hover:text-yellow-600 svelte-agkwle"}" to="${"/Australasia/newzealandgeneral"}">New Zealand</g-link></li></ul>
-  </div>`;
+		<li class="${"rounded-sm px-3 py-1 hover:bg-gray-100 svelte-agkwle"}"><a class="${"text-gray-900 hover:text-yellow-600 svelte-agkwle"}" href="${"/Australasia/newzealand"}">New Zealand</a></li></ul>
+</div>`;
     });
     css$7 = {
       code: "li>button.svelte-1mste6j svg.svelte-1mste6j{transform:rotate(-90deg)}li:hover>button.svelte-1mste6j svg.svelte-1mste6j{transform:rotate(-270deg)}.group.svelte-1mste6j:hover .group-hover\\:scale-100.svelte-1mste6j{transform:scale(1)}.group.svelte-1mste6j:hover .group-hover\\:-rotate-180.svelte-1mste6j{transform:rotate(180deg)}.scale-0.svelte-1mste6j.svelte-1mste6j{transform:scale(0)}.min-w-32.svelte-1mste6j.svelte-1mste6j{min-width:8rem}.bg-white.svelte-1mste6j.svelte-1mste6j{--tw-bg-opacity:1;background-color:rgba(255, 255, 255, var(--tw-bg-opacity))}.hover\\:bg-gray-100.svelte-1mste6j.svelte-1mste6j:hover{--tw-bg-opacity:1;background-color:rgba(243, 244, 246, var(--tw-bg-opacity))}.rounded-sm.svelte-1mste6j.svelte-1mste6j{border-radius:0.125rem}.border.svelte-1mste6j.svelte-1mste6j{border-width:1px}.inline-block.svelte-1mste6j.svelte-1mste6j{display:inline-block}.flex.svelte-1mste6j.svelte-1mste6j{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.items-center.svelte-1mste6j.svelte-1mste6j{-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center}.flex-1.svelte-1mste6j.svelte-1mste6j{-webkit-box-flex:1;-ms-flex:1 1 0%;-webkit-flex:1 1 0%;flex:1 1 0%}.font-semibold.svelte-1mste6j.svelte-1mste6j{font-weight:600}.h-4.svelte-1mste6j.svelte-1mste6j{height:1rem}.min-w-32.svelte-1mste6j.svelte-1mste6j{min-width:8rem}.outline-none.svelte-1mste6j.svelte-1mste6j{outline:2px solid transparent;outline-offset:2px}.focus\\:outline-none.svelte-1mste6j.svelte-1mste6j:focus{outline:2px solid transparent;outline-offset:2px}.px-3.svelte-1mste6j.svelte-1mste6j{padding-left:0.75rem;padding-right:0.75rem}.py-1.svelte-1mste6j.svelte-1mste6j{padding-top:0.25rem;padding-bottom:0.25rem}.pr-1.svelte-1mste6j.svelte-1mste6j{padding-right:0.25rem}.absolute.svelte-1mste6j.svelte-1mste6j{position:absolute}.fill-current.svelte-1mste6j.svelte-1mste6j{fill:currentColor}.text-emerald-600.svelte-1mste6j.svelte-1mste6j{--tw-text-opacity:1;color:rgba(5, 150, 105, var(--tw-text-opacity))}.hover\\:text-yellow-600.svelte-1mste6j.svelte-1mste6j:hover{--tw-text-opacity:1;color:rgba(217, 119, 6, var(--tw-text-opacity))}.w-4.svelte-1mste6j.svelte-1mste6j{width:1rem}.transform.svelte-1mste6j.svelte-1mste6j{--tw-rotate:0;--tw-rotate-x:0;--tw-rotate-y:0;--tw-rotate-z:0;--tw-scale-x:1;--tw-scale-y:1;--tw-scale-z:1;--tw-skew-x:0;--tw-skew-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;-webkit-transform:rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z));-ms-transform:rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z));transform:rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z))}.origin-top.svelte-1mste6j.svelte-1mste6j{-webkit-transform-origin:top;-ms-transform-origin:top;transform-origin:top}.scale-0.svelte-1mste6j.svelte-1mste6j{--tw-scale-x:0;--tw-scale-y:0;--tw-scale-z:0}.group.svelte-1mste6j:hover .group-hover\\:scale-100.svelte-1mste6j{--tw-scale-x:1;--tw-scale-y:1;--tw-scale-z:1}.group.svelte-1mste6j:hover .group-hover\\:-rotate-180.svelte-1mste6j{--tw-rotate:-180deg}.transition.svelte-1mste6j.svelte-1mste6j{-webkit-transition-property:background-color, border-color, color, fill, stroke, opacity, -webkit-box-shadow, -webkit-transform, filter, backdrop-filter;-o-transition-property:background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;transition-property:background-color, border-color, color, fill, stroke, opacity, box-shadow, -webkit-box-shadow, transform, -webkit-transform, filter, backdrop-filter;-webkit-transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);-o-transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);-webkit-transition-duration:150ms;-o-transition-duration:150ms;transition-duration:150ms}.ease-in-out.svelte-1mste6j.svelte-1mste6j{-webkit-transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);-o-transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1)}.duration-150.svelte-1mste6j.svelte-1mste6j{-webkit-transition-duration:150ms;-o-transition-duration:150ms;transition-duration:150ms}",
@@ -4911,9 +4911,9 @@ ${validate_component(TheFooter, "TheFooter").$$render($$result, {}, {}, {})}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/error-9dcbc45e.js
-var error_9dcbc45e_exports = {};
-__export(error_9dcbc45e_exports, {
+// .svelte-kit/output/server/chunks/error-2b384ad2.js
+var error_2b384ad2_exports = {};
+__export(error_2b384ad2_exports, {
   default: () => Error2,
   load: () => load
 });
@@ -4921,10 +4921,10 @@ function load({ error: error2, status }) {
   return { props: { error: error2, status } };
 }
 var Error2;
-var init_error_9dcbc45e = __esm({
-  ".svelte-kit/output/server/chunks/error-9dcbc45e.js"() {
+var init_error_2b384ad2 = __esm({
+  ".svelte-kit/output/server/chunks/error-2b384ad2.js"() {
     init_shims();
-    init_app_9d084478();
+    init_app_b7574370();
     Error2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       let { status } = $$props;
       let { error: error2 } = $$props;
@@ -4944,17 +4944,17 @@ ${error2.stack ? `<pre>${escape(error2.stack)}</pre>` : ``}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/index-d00d3978.js
-var index_d00d3978_exports = {};
-__export(index_d00d3978_exports, {
+// .svelte-kit/output/server/chunks/index-62f0f9f7.js
+var index_62f0f9f7_exports = {};
+__export(index_62f0f9f7_exports, {
   default: () => Routes,
   prerender: () => prerender
 });
 var css2, prerender, Routes;
-var init_index_d00d3978 = __esm({
-  ".svelte-kit/output/server/chunks/index-d00d3978.js"() {
+var init_index_62f0f9f7 = __esm({
+  ".svelte-kit/output/server/chunks/index-62f0f9f7.js"() {
     init_shims();
-    init_app_9d084478();
+    init_app_b7574370();
     css2 = {
       code: ".one.svelte-1quiifg{text-align:center;margin-top:50px;margin-left:100px;margin-right:100px}.grid.svelte-1quiifg{display:-ms-grid;display:grid}.h-96.svelte-1quiifg{height:24rem}.text-6xl.svelte-1quiifg{font-size:3.75rem;line-height:1}.text-3xl.svelte-1quiifg{font-size:1.875rem;line-height:2.25rem}.text-xl.svelte-1quiifg{font-size:1.25rem;line-height:1.75rem}.object-fill.svelte-1quiifg{-o-object-fit:fill;object-fit:fill}.p-4.svelte-1quiifg{padding:1rem}.text-left.svelte-1quiifg{text-align:left}.text-center.svelte-1quiifg{text-align:center}.text-purple-500.svelte-1quiifg{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.text-purple-400.svelte-1quiifg{--tw-text-opacity:1;color:rgba(167, 139, 250, var(--tw-text-opacity))}.text-gray-600.svelte-1quiifg{--tw-text-opacity:1;color:rgba(75, 85, 99, var(--tw-text-opacity))}.w-full.svelte-1quiifg{width:100%}.gap-4.svelte-1quiifg{grid-gap:1rem;gap:1rem}.grid-cols-2.svelte-1quiifg{grid-template-columns:repeat(2, minmax(0, 1fr))}",
       map: null
@@ -4988,7 +4988,194 @@ var init_index_d00d3978 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/app-9d084478.js
+// .svelte-kit/output/server/chunks/newzealand-03d8ccf9.js
+var newzealand_03d8ccf9_exports = {};
+__export(newzealand_03d8ccf9_exports, {
+  default: () => Newzealand,
+  prerender: () => prerender2
+});
+var css$52, State, css$42, Historical, css$32, Gazette, css$22, Companies, css$12, Auckland, css3, prerender2, Newzealand;
+var init_newzealand_03d8ccf9 = __esm({
+  ".svelte-kit/output/server/chunks/newzealand-03d8ccf9.js"() {
+    init_shims();
+    init_app_b7574370();
+    css$52 = {
+      code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
+      map: null
+    };
+    State = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css$52);
+      return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">State Archives</h1>
+
+		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618762256/archives_nndpbn.jpg"}" alt="${"image of archives"}">
+		<br>
+		<p>New Zealand <br>State archives.</p>
+		<br><br>
+		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"http://bit.ly/2xItUAd"}" target="${"_blank"}">More Info
+		</a></div>
+</div>`;
+    });
+    css$42 = {
+      code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
+      map: null
+    };
+    Historical = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css$42);
+      return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">Historical Records</h1>
+
+		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638704227/nz-birth-cert_sq0auz.jpg"}" alt="${"image of newzealand birth cerificates"}">
+		<br>
+		<ul><li>Births over 100 year&#39;s</li>
+			<li>Marriages over 80 year&#39;s</li>
+			<li>Deaths over 50 year&#39;s</li></ul>
+
+		<br>
+		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"http://bit.ly/2I57AYi"}" target="${"_blank"}">More Info
+		</a></div>
+</div>`;
+    });
+    css$32 = {
+      code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
+      map: null
+    };
+    Gazette = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css$32);
+      return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">Gazette</h1>
+
+		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638703832/nz-gazette_hsw9oq.jpg"}" alt="${"image of new zealand gazette logo"}">
+		<br>
+		<p>Search the The official<br> Government newspaper<br> published since 1841</p>
+		<br>
+		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"http://bit.ly/2Kvu3vP"}" target="${"_blank"}">More Info
+		</a></div>
+</div>`;
+    });
+    css$22 = {
+      code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
+      map: null
+    };
+    Companies = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css$22);
+      return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">Companies Register
+      </h1>
+
+      <img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638703494/business_ee6az1.jpg"}" alt="${"image of a business man"}">
+      <br>
+     <p>Search companies and<br> director&#39;s information</p>
+
+      <br><br>
+      <a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"http://bit.ly/2FAOF2j"}" target="${"_blank"}">More Info
+      </a></div>
+  </div>`;
+    });
+    css$12 = {
+      code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
+      map: null
+    };
+    Auckland = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css$12);
+      return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">Auckland</h1>
+
+		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638702889/graves_tu2we0.jpg"}" alt="${"image of graves"}">
+		<br>
+		<p>Auckland burial and <br>cremation records.</p>
+		<br><br>
+		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"https://bit.ly/3fvRLYO"}" target="${"_blank"}">More Info
+		</a></div>
+</div>`;
+    });
+    css3 = {
+      code: ".one.svelte-1nupwvf{text-align:center;margin-top:50px;margin-left:100px;margin-right:100px}.inline-block.svelte-1nupwvf{display:inline-block}.grid.svelte-1nupwvf{display:-ms-grid;display:grid}.h-10.svelte-1nupwvf{height:2.5rem}.text-4xl.svelte-1nupwvf{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-1nupwvf{margin-left:2rem}.mt-3.svelte-1nupwvf{margin-top:0.75rem}.mt-20.svelte-1nupwvf{margin-top:5rem}.mt-8.svelte-1nupwvf{margin-top:2rem}.text-center.svelte-1nupwvf{text-align:center}.text-purple-500.svelte-1nupwvf{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-1nupwvf{width:3.5rem}.gap-4.svelte-1nupwvf{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-1nupwvf{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
+      map: null
+    };
+    prerender2 = true;
+    Newzealand = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css3);
+      return `${$$result.head += `${$$result.title = `<title>New Zealand</title>`, ""}`, ""}
+
+<section class="${"one svelte-1nupwvf"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-1nupwvf"}"><img class="${"h-10 w-14 inline-block svelte-1nupwvf"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638702403/newzealand-flag_w7h9cg.jpg"}" alt="${"image of new zealand flag"}">
+		New Zealand Family History Resourses
+	</h1>
+	<br>
+
+	<div class="${"grid sm:flex gap-4 mt-20 one svelte-1nupwvf"}">${validate_component(Auckland, "Auckland").$$render($$result, {}, {}, {})}
+		${validate_component(Companies, "Companies").$$render($$result, {}, {}, {})}
+        ${validate_component(Gazette, "Gazette").$$render($$result, {}, {}, {})}</div>
+
+    <div class="${"grid sm:flex gap-4 mt-8 one svelte-1nupwvf"}">${validate_component(Historical, "Historical").$$render($$result, {}, {}, {})}
+    ${validate_component(State, "State").$$render($$result, {}, {}, {})}</div>
+</section>`;
+    });
+  }
+});
+
+// .svelte-kit/output/server/chunks/australia-d0eb84ab.js
+var australia_d0eb84ab_exports = {};
+__export(australia_d0eb84ab_exports, {
+  default: () => Australia,
+  prerender: () => prerender3
+});
+var css$23, State2, css$13, GenSA, css4, prerender3, Australia;
+var init_australia_d0eb84ab = __esm({
+  ".svelte-kit/output/server/chunks/australia-d0eb84ab.js"() {
+    init_shims();
+    init_app_b7574370();
+    css$23 = {
+      code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
+      map: null
+    };
+    State2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css$23);
+      return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">State Archives</h1>
+
+		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618762256/archives_nndpbn.jpg"}" alt="${"austria archives"}">
+		<br>
+		<p>Australian State Archives</p>
+		<br><br><br>
+		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"https://bit.ly/3fpAQHh"}" target="${"_blank"}">More Info </a></div>
+</div>`;
+    });
+    css$13 = {
+      code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
+      map: null
+    };
+    GenSA = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css$13);
+      return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">Genealogy SA</h1>
+
+		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607248969/database_l8siob.jpg"}" alt="${"image of database"}">
+		<br>
+		<p>Search databases of
+			<br>south Australian
+			<br>family history
+		</p>
+		<br>
+		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"https://bit.ly/3nP4PM4"}" target="${"_blank"}">More Info
+		</a></div>
+</div>`;
+    });
+    css4 = {
+      code: ".one.svelte-10wioxk{text-align:center;margin-top:50px;margin-left:100px;margin-right:100px}.inline-block.svelte-10wioxk{display:inline-block}.grid.svelte-10wioxk{display:-ms-grid;display:grid}.h-10.svelte-10wioxk{height:2.5rem}.text-4xl.svelte-10wioxk{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-10wioxk{margin-left:2rem}.mt-3.svelte-10wioxk{margin-top:0.75rem}.mt-20.svelte-10wioxk{margin-top:5rem}.text-center.svelte-10wioxk{text-align:center}.text-purple-500.svelte-10wioxk{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-10wioxk{width:3.5rem}.gap-4.svelte-10wioxk{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-10wioxk{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
+      map: null
+    };
+    prerender3 = true;
+    Australia = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      $$result.css.add(css4);
+      return `${$$result.head += `${$$result.title = `<title>Austalia</title>`, ""}`, ""}
+
+<section class="${"one svelte-10wioxk"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-10wioxk"}"><img class="${"h-10 w-14 inline-block svelte-10wioxk"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638638952/australia-flag_zwelpx.jpg"}" alt="${"image of australian flag"}">
+		Australia Family History Resourses
+	</h1>
+	<br>
+
+	<div class="${"grid sm:flex gap-4 mt-20 one svelte-10wioxk"}">${validate_component(GenSA, "GenSA").$$render($$result, {}, {}, {})}
+		${validate_component(State2, "State").$$render($$result, {}, {}, {})}</div>
+</section>`;
+    });
+  }
+});
+
+// .svelte-kit/output/server/chunks/app-b7574370.js
 function get_single_valued_header(headers, key) {
   const value = headers[key];
   if (Array.isArray(value)) {
@@ -6264,9 +6451,9 @@ function init(settings = default_settings) {
     amp: false,
     dev: false,
     entry: {
-      file: assets + "/_app/start-b37ea18e.js",
+      file: assets + "/_app/start-a82c654e.js",
       css: [assets + "/_app/assets/start-1f089c51.css"],
-      js: [assets + "/_app/start-b37ea18e.js", assets + "/_app/chunks/vendor-dad3c69f.js"]
+      js: [assets + "/_app/start-a82c654e.js", assets + "/_app/chunks/vendor-dad3c69f.js"]
     },
     fetched: void 0,
     floc: false,
@@ -6304,14 +6491,14 @@ async function load_component(file) {
   };
 }
 function render(request, {
-  prerender: prerender2
+  prerender: prerender4
 } = {}) {
   const host = request.headers["host"];
-  return respond({ ...request, host }, options, { prerender: prerender2 });
+  return respond({ ...request, host }, options, { prerender: prerender4 });
 }
-var __accessCheck, __privateGet, __privateAdd, __privateSet, _map, absolute, scheme, chars, unsafeChars, reserved, escaped$1, objectProtoOwnPropertyNames, subscriber_queue, escape_json_string_in_html_dict, escape_html_attr_dict, s$1, s, ReadOnlyFormData, current_component, escaped, missing_component, on_destroy, css3, Root, base, assets, user_hooks, template, options, default_settings, empty, manifest, get_hooks, module_lookup, metadata_lookup;
-var init_app_9d084478 = __esm({
-  ".svelte-kit/output/server/chunks/app-9d084478.js"() {
+var __accessCheck, __privateGet, __privateAdd, __privateSet, _map, absolute, scheme, chars, unsafeChars, reserved, escaped$1, objectProtoOwnPropertyNames, subscriber_queue, escape_json_string_in_html_dict, escape_html_attr_dict, s$1, s, ReadOnlyFormData, current_component, escaped, missing_component, on_destroy, css5, Root, base, assets, user_hooks, template, options, default_settings, empty, manifest, get_hooks, module_lookup, metadata_lookup;
+var init_app_b7574370 = __esm({
+  ".svelte-kit/output/server/chunks/app-b7574370.js"() {
     init_shims();
     __accessCheck = (obj, member, msg) => {
       if (!member.has(obj))
@@ -6428,7 +6615,7 @@ var init_app_9d084478 = __esm({
     missing_component = {
       $$render: () => ""
     };
-    css3 = {
+    css5 = {
       code: "#svelte-announcer.svelte-1r92h5h{position:absolute;left:0;top:0;clip:rect(0 0 0 0);clip-path:inset(50%);overflow:hidden;white-space:nowrap;width:1px;height:1px}",
       map: null
     };
@@ -6453,7 +6640,7 @@ var init_app_9d084478 = __esm({
         $$bindings.props_1(props_1);
       if ($$props.props_2 === void 0 && $$bindings.props_2 && props_2 !== void 0)
         $$bindings.props_2(props_2);
-      $$result.css.add(css3);
+      $$result.css.add(css5);
       {
         stores.page.set(page);
       }
@@ -6486,6 +6673,20 @@ ${``}`;
           params: empty,
           a: ["src/routes/__layout.svelte", "src/routes/index.svelte"],
           b: [".svelte-kit/build/components/error.svelte"]
+        },
+        {
+          type: "page",
+          pattern: /^\/Australasia\/newzealand\/?$/,
+          params: empty,
+          a: ["src/routes/__layout.svelte", "src/routes/Australasia/newzealand.svelte"],
+          b: [".svelte-kit/build/components/error.svelte"]
+        },
+        {
+          type: "page",
+          pattern: /^\/Australasia\/australia\/?$/,
+          params: empty,
+          a: ["src/routes/__layout.svelte", "src/routes/Australasia/australia.svelte"],
+          b: [".svelte-kit/build/components/error.svelte"]
         }
       ]
     };
@@ -6496,11 +6697,13 @@ ${``}`;
       externalFetch: hooks.externalFetch || fetch
     });
     module_lookup = {
-      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_fddc8558(), layout_fddc8558_exports)),
-      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_9dcbc45e(), error_9dcbc45e_exports)),
-      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_d00d3978(), index_d00d3978_exports))
+      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_ad37eb7b(), layout_ad37eb7b_exports)),
+      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_2b384ad2(), error_2b384ad2_exports)),
+      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_62f0f9f7(), index_62f0f9f7_exports)),
+      "src/routes/Australasia/newzealand.svelte": () => Promise.resolve().then(() => (init_newzealand_03d8ccf9(), newzealand_03d8ccf9_exports)),
+      "src/routes/Australasia/australia.svelte": () => Promise.resolve().then(() => (init_australia_d0eb84ab(), australia_d0eb84ab_exports))
     };
-    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-bffd5240.js", "css": ["assets/pages/__layout.svelte-81acdd1d.css"], "js": ["pages/__layout.svelte-bffd5240.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-3aac330e.js", "css": [], "js": ["error.svelte-3aac330e.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-4ed49659.js", "css": ["assets/pages/index.svelte-3b776db4.css"], "js": ["pages/index.svelte-4ed49659.js", "chunks/vendor-dad3c69f.js"], "styles": [] } };
+    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-daae2d0f.js", "css": ["assets/pages/__layout.svelte-1cb04902.css"], "js": ["pages/__layout.svelte-daae2d0f.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-3aac330e.js", "css": [], "js": ["error.svelte-3aac330e.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-4ed49659.js", "css": ["assets/pages/index.svelte-3b776db4.css"], "js": ["pages/index.svelte-4ed49659.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/Australasia/newzealand.svelte": { "entry": "pages/Australasia/newzealand.svelte-32fc9bc1.js", "css": ["assets/pages/Australasia/newzealand.svelte-881af9bf.css"], "js": ["pages/Australasia/newzealand.svelte-32fc9bc1.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/Australasia/australia.svelte": { "entry": "pages/Australasia/australia.svelte-360309cb.js", "css": ["assets/pages/Australasia/australia.svelte-88b600e7.css"], "js": ["pages/Australasia/australia.svelte-360309cb.js", "chunks/vendor-dad3c69f.js"], "styles": [] } };
   }
 });
 
@@ -6512,7 +6715,7 @@ init_shims();
 
 // .svelte-kit/output/server/app.js
 init_shims();
-init_app_9d084478();
+init_app_b7574370();
 
 // .svelte-kit/netlify/entry.js
 init();

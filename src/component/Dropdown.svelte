@@ -8,6 +8,8 @@
 	import General from '../component/nav/General.svelte';
 </script>
 
+
+
 <div class="one mb-72">
 	<br />
 	<div class="border-b-4 border-gray-200" />
