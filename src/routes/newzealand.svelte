@@ -5,7 +5,6 @@
 	import Companies from '../component/australasia/Zealand/Companies.svelte';
 	import Gazette from '../component/australasia/Zealand/Gazette.svelte';
 	import Historical from '../component/australasia/Zealand/Historical.svelte';
-	import Archives from '../component/australasia/Zealand/Archives.svelte';
 
 </script>
 
@@ -27,7 +26,7 @@
 
 	<div class="grid sm:flex gap-4 mt-8 one">
 		<Historical />
-		<Archives />
+		
 	</div>
 </section>
 
