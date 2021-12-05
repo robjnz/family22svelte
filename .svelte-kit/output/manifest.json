@@ -1,0 +1,80 @@
+{
+  ".svelte-kit/build/runtime/internal/start.js": {
+    "file": "start-10af5381.js",
+    "src": ".svelte-kit/build/runtime/internal/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-dad3c69f.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/build/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/newzealand.svelte",
+      "src/routes/australia.svelte"
+    ],
+    "css": [
+      "assets/start-1f089c51.css"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-ce9cf9d6.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-dad3c69f.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-1cb04902.css"
+    ]
+  },
+  ".svelte-kit/build/components/error.svelte": {
+    "file": "error.svelte-482d185c.js",
+    "src": ".svelte-kit/build/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-dad3c69f.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-f0099213.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-dad3c69f.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-3b776db4.css"
+    ]
+  },
+  "src/routes/newzealand.svelte": {
+    "file": "pages/newzealand.svelte-013e7d13.js",
+    "src": "src/routes/newzealand.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-dad3c69f.js"
+    ],
+    "css": [
+      "assets/pages/newzealand.svelte-81ba39d7.css"
+    ]
+  },
+  "src/routes/australia.svelte": {
+    "file": "pages/australia.svelte-f11487ce.js",
+    "src": "src/routes/australia.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-dad3c69f.js"
+    ],
+    "css": [
+      "assets/pages/australia.svelte-b349f3b9.css"
+    ]
+  },
+  "_vendor-dad3c69f.js": {
+    "file": "chunks/vendor-dad3c69f.js"
+  }
+}

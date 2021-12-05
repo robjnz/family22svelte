@@ -4696,16 +4696,16 @@ var init_shims = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/__layout-13dbac4d.js
-var layout_13dbac4d_exports = {};
-__export(layout_13dbac4d_exports, {
+// .svelte-kit/output/server/chunks/__layout-767692fa.js
+var layout_767692fa_exports = {};
+__export(layout_767692fa_exports, {
   default: () => _layout
 });
 var css$a, Nav, css$9, TheFooter, css$8, Australasia, css$7, Caribbean, css$6, Europe, css$5, Jewish, css$4, Northamerica, css$3, Blog, css$2, General, css$1, Dropdown, css, _layout;
-var init_layout_13dbac4d = __esm({
-  ".svelte-kit/output/server/chunks/__layout-13dbac4d.js"() {
+var init_layout_767692fa = __esm({
+  ".svelte-kit/output/server/chunks/__layout-767692fa.js"() {
     init_shims();
-    init_app_f3b4583b();
+    init_app_54c7accc();
     css$a = {
       code: ".bg-teal-500.svelte-1a2snzq{--tw-bg-opacity:1;background-color:rgba(20, 184, 166, var(--tw-bg-opacity))}.grid.svelte-1a2snzq{display:-ms-grid;display:grid}.h-10.svelte-1a2snzq{height:2.5rem}.text-4xl.svelte-1a2snzq{font-size:2.25rem;line-height:2.5rem}.m-2.svelte-1a2snzq{margin:0.5rem}.p-4.svelte-1a2snzq{padding:1rem}.text-right.svelte-1a2snzq{text-align:right}.text-gray-200.svelte-1a2snzq{--tw-text-opacity:1;color:rgba(229, 231, 235, var(--tw-text-opacity))}.gap-4.svelte-1a2snzq{grid-gap:1rem;gap:1rem}.grid-cols-3.svelte-1a2snzq{grid-template-columns:repeat(3, minmax(0, 1fr))}",
       map: null
@@ -4911,9 +4911,9 @@ ${validate_component(TheFooter, "TheFooter").$$render($$result, {}, {}, {})}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/error-f13fcd67.js
-var error_f13fcd67_exports = {};
-__export(error_f13fcd67_exports, {
+// .svelte-kit/output/server/chunks/error-bfa0015c.js
+var error_bfa0015c_exports = {};
+__export(error_bfa0015c_exports, {
   default: () => Error2,
   load: () => load
 });
@@ -4921,10 +4921,10 @@ function load({ error: error2, status }) {
   return { props: { error: error2, status } };
 }
 var Error2;
-var init_error_f13fcd67 = __esm({
-  ".svelte-kit/output/server/chunks/error-f13fcd67.js"() {
+var init_error_bfa0015c = __esm({
+  ".svelte-kit/output/server/chunks/error-bfa0015c.js"() {
     init_shims();
-    init_app_f3b4583b();
+    init_app_54c7accc();
     Error2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       let { status } = $$props;
       let { error: error2 } = $$props;
@@ -4944,17 +4944,17 @@ ${error2.stack ? `<pre>${escape(error2.stack)}</pre>` : ``}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/index-0b8938d7.js
-var index_0b8938d7_exports = {};
-__export(index_0b8938d7_exports, {
+// .svelte-kit/output/server/chunks/index-8643a801.js
+var index_8643a801_exports = {};
+__export(index_8643a801_exports, {
   default: () => Routes,
   prerender: () => prerender
 });
 var css2, prerender, Routes;
-var init_index_0b8938d7 = __esm({
-  ".svelte-kit/output/server/chunks/index-0b8938d7.js"() {
+var init_index_8643a801 = __esm({
+  ".svelte-kit/output/server/chunks/index-8643a801.js"() {
     init_shims();
-    init_app_f3b4583b();
+    init_app_54c7accc();
     css2 = {
       code: ".one.svelte-1quiifg{text-align:center;margin-top:50px;margin-left:100px;margin-right:100px}.grid.svelte-1quiifg{display:-ms-grid;display:grid}.h-96.svelte-1quiifg{height:24rem}.text-6xl.svelte-1quiifg{font-size:3.75rem;line-height:1}.text-3xl.svelte-1quiifg{font-size:1.875rem;line-height:2.25rem}.text-xl.svelte-1quiifg{font-size:1.25rem;line-height:1.75rem}.object-fill.svelte-1quiifg{-o-object-fit:fill;object-fit:fill}.p-4.svelte-1quiifg{padding:1rem}.text-left.svelte-1quiifg{text-align:left}.text-center.svelte-1quiifg{text-align:center}.text-purple-500.svelte-1quiifg{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.text-purple-400.svelte-1quiifg{--tw-text-opacity:1;color:rgba(167, 139, 250, var(--tw-text-opacity))}.text-gray-600.svelte-1quiifg{--tw-text-opacity:1;color:rgba(75, 85, 99, var(--tw-text-opacity))}.w-full.svelte-1quiifg{width:100%}.gap-4.svelte-1quiifg{grid-gap:1rem;gap:1rem}.grid-cols-2.svelte-1quiifg{grid-template-columns:repeat(2, minmax(0, 1fr))}",
       map: null
@@ -4988,22 +4988,22 @@ var init_index_0b8938d7 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/newzealand-83915d9d.js
-var newzealand_83915d9d_exports = {};
-__export(newzealand_83915d9d_exports, {
+// .svelte-kit/output/server/chunks/newzealand-b5f3bd45.js
+var newzealand_b5f3bd45_exports = {};
+__export(newzealand_b5f3bd45_exports, {
   default: () => Newzealand,
   prerender: () => prerender2
 });
-var css$52, Archives, css$42, Historical, css$32, Gazette, css$22, Companies, css$12, Auckland, css3, prerender2, Newzealand;
-var init_newzealand_83915d9d = __esm({
-  ".svelte-kit/output/server/chunks/newzealand-83915d9d.js"() {
+var css$52, State, css$42, Historical, css$32, Gazette, css$22, Companies, css$12, Auckland, css3, prerender2, Newzealand;
+var init_newzealand_b5f3bd45 = __esm({
+  ".svelte-kit/output/server/chunks/newzealand-b5f3bd45.js"() {
     init_shims();
-    init_app_f3b4583b();
+    init_app_54c7accc();
     css$52 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
       map: null
     };
-    Archives = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+    State = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css$52);
       return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">State Archives</h1>
 
@@ -5102,23 +5102,23 @@ var init_newzealand_83915d9d = __esm({
 		${validate_component(Gazette, "Gazette").$$render($$result, {}, {}, {})}</div>
 
 	<div class="${"grid sm:flex gap-4 mt-8 one svelte-9gvjug"}">${validate_component(Historical, "Historical").$$render($$result, {}, {}, {})}
-		${validate_component(Archives, "Archives").$$render($$result, {}, {}, {})}</div>
+		${validate_component(State, "State").$$render($$result, {}, {}, {})}</div>
 </section>`;
     });
   }
 });
 
-// .svelte-kit/output/server/chunks/australia-c7714892.js
-var australia_c7714892_exports = {};
-__export(australia_c7714892_exports, {
+// .svelte-kit/output/server/chunks/australia-2cd06246.js
+var australia_2cd06246_exports = {};
+__export(australia_2cd06246_exports, {
   default: () => Australia,
   prerender: () => prerender3
 });
 var css$23, Ausstate, css$13, Gen, css4, prerender3, Australia;
-var init_australia_c7714892 = __esm({
-  ".svelte-kit/output/server/chunks/australia-c7714892.js"() {
+var init_australia_2cd06246 = __esm({
+  ".svelte-kit/output/server/chunks/australia-2cd06246.js"() {
     init_shims();
-    init_app_f3b4583b();
+    init_app_54c7accc();
     css$23 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
       map: null
@@ -5126,12 +5126,12 @@ var init_australia_c7714892 = __esm({
     Ausstate = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css$23);
       return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">State Archives</h1>
-
-		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618762256/archives_nndpbn.jpg"}" alt="${"austria archives"}">
+		<div><img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618762256/archives_nndpbn.jpg"}" alt="${"australia archives"}"></div>
 		<br>
 		<p>Australian State Archives</p>
 		<br><br><br>
-		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"https://bit.ly/3fpAQHh"}" target="${"_blank"}">More Info </a></div>
+		<a class="${"text-white hover:text-yellow-500 svelte-uz66hb"}" href="${"https://bit.ly/3fpAQHh"}" target="${"_blank"}">More Info
+		</a></div>
 </div>`;
     });
     css$13 = {
@@ -5141,8 +5141,7 @@ var init_australia_c7714892 = __esm({
     Gen = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css$13);
       return `<div id="${"work-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-uz66hb"}"><div class="${"p-6 svelte-uz66hb"}"><h1 class="${"text-2xl text-white svelte-uz66hb"}">Genealogy SA</h1>
-
-		<img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607248969/database_l8siob.jpg"}" alt="${"image of database"}">
+		<div><img class="${"h-32 w-full object-fill svelte-uz66hb"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607248969/database_l8siob.jpg"}" alt="${"image of database"}"></div>
 		<br>
 		<p>Search databases of
 			<br>south Australian
@@ -5160,9 +5159,9 @@ var init_australia_c7714892 = __esm({
     prerender3 = true;
     Australia = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css4);
-      return `${$$result.head += `${$$result.title = `<title>Austalia</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Australia</title>`, ""}`, ""}
 
-<section class="${"one svelte-10wioxk"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-10wioxk"}"><img class="${"h-10 w-14 inline-block svelte-10wioxk"}" src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638638952/australia-flag_zwelpx.jpg"}" alt="${"image of australian flag"}">
+<section class="${"one svelte-10wioxk"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-10wioxk"}"><div class="${"h-10 w-14 inline-block svelte-10wioxk"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638638952/australia-flag_zwelpx.jpg"}" alt="${"image of australian flag"}"></div>
 		Australia Family History Resourses
 	</h1>
 	<br>
@@ -5174,7 +5173,7 @@ var init_australia_c7714892 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/app-f3b4583b.js
+// .svelte-kit/output/server/chunks/app-54c7accc.js
 function get_single_valued_header(headers, key) {
   const value = headers[key];
   if (Array.isArray(value)) {
@@ -6450,9 +6449,9 @@ function init(settings = default_settings) {
     amp: false,
     dev: false,
     entry: {
-      file: assets + "/_app/start-195179e9.js",
+      file: assets + "/_app/start-10af5381.js",
       css: [assets + "/_app/assets/start-1f089c51.css"],
-      js: [assets + "/_app/start-195179e9.js", assets + "/_app/chunks/vendor-dad3c69f.js"]
+      js: [assets + "/_app/start-10af5381.js", assets + "/_app/chunks/vendor-dad3c69f.js"]
     },
     fetched: void 0,
     floc: false,
@@ -6496,8 +6495,8 @@ function render(request, {
   return respond({ ...request, host }, options, { prerender: prerender4 });
 }
 var __accessCheck, __privateGet, __privateAdd, __privateSet, _map, absolute, scheme, chars, unsafeChars, reserved, escaped$1, objectProtoOwnPropertyNames, subscriber_queue, escape_json_string_in_html_dict, escape_html_attr_dict, s$1, s, ReadOnlyFormData, current_component, escaped, missing_component, on_destroy, css5, Root, base, assets, user_hooks, template, options, default_settings, empty, manifest, get_hooks, module_lookup, metadata_lookup;
-var init_app_f3b4583b = __esm({
-  ".svelte-kit/output/server/chunks/app-f3b4583b.js"() {
+var init_app_54c7accc = __esm({
+  ".svelte-kit/output/server/chunks/app-54c7accc.js"() {
     init_shims();
     __accessCheck = (obj, member, msg) => {
       if (!member.has(obj))
@@ -6662,7 +6661,7 @@ ${``}`;
     default_settings = { paths: { "base": "", "assets": "" } };
     empty = () => ({});
     manifest = {
-      assets: [{ "file": "favicon1.png", "size": 1571, "type": "image/png" }, { "file": "favicon.png", "size": 200521, "type": "image/png" }, { "file": "images/logo youtube.jpg", "size": 485909, "type": "image/jpeg" }, { "file": "images/logo.png", "size": 311689, "type": "image/png" }, { "file": "images/logotree.png", "size": 109976, "type": "image/png" }, { "file": "images/logotree.svg", "size": 134165, "type": "image/svg+xml" }, { "file": "images/logotreerobin.png", "size": 329212, "type": "image/png" }, { "file": "images/logotreerobin.svg", "size": 1065244, "type": "image/svg+xml" }, { "file": "images/square.png", "size": 513, "type": "image/png" }, { "file": "images/europe/1939c.jpg", "size": 10018, "type": "image/jpeg" }, { "file": "images/europe/american-flag.jpg", "size": 7845, "type": "image/jpeg" }, { "file": "images/europe/ancestry.jpg", "size": 5902, "type": "image/jpeg" }, { "file": "images/europe/archives.jpg", "size": 29905, "type": "image/jpeg" }, { "file": "images/europe/australia-flag.jpg", "size": 6575, "type": "image/jpeg" }, { "file": "images/europe/austria-flag.jpg", "size": 5889, "type": "image/jpeg" }, { "file": "images/europe/belarus-flag.jpg", "size": 7604, "type": "image/jpeg" }, { "file": "images/europe/belarus-map.jpg", "size": 26169, "type": "image/jpeg" }, { "file": "images/europe/belgium-flag.jpg", "size": 3352, "type": "image/jpeg" }, { "file": "images/europe/britmila.jpg", "size": 18491, "type": "image/jpeg" }, { "file": "images/europe/business.jpg", "size": 3672, "type": "image/jpeg" }, { "file": "images/europe/camps.jpg", "size": 10826, "type": "image/jpeg" }, { "file": "images/europe/canada-flag.jpg", "size": 3747, "type": "image/jpeg" }, { "file": "images/europe/censusireland.jpg", "size": 31898, "type": "image/jpeg" }, { "file": "images/europe/church.jpg", "size": 13236, "type": "image/jpeg" }, { "file": "images/europe/companies.jpg", "size": 11526, "type": "image/jpeg" }, { "file": "images/europe/cyrillic.jpg", "size": 31702, "type": "image/jpeg" }, { "file": "images/europe/database.jpg", "size": 15716, "type": "image/jpeg" }, { "file": "images/europe/dnipropetrovsk_arms.jpg", "size": 26546, "type": "image/jpeg" }, { "file": "images/europe/family-tree.jpg", "size": 16455, "type": "image/jpeg" }, { "file": "images/europe/first.jpg", "size": 9946, "type": "image/jpeg" }, { "file": "images/europe/flame.jpg", "size": 8874, "type": "image/jpeg" }, { "file": "images/europe/french-flag.jpg", "size": 1472, "type": "image/jpeg" }, { "file": "images/europe/gate.jpg", "size": 16290, "type": "image/jpeg" }, { "file": "images/europe/gazette.jpg", "size": 22586, "type": "image/jpeg" }, { "file": "images/europe/gen.jpg", "size": 10614, "type": "image/jpeg" }, { "file": "images/europe/graves.jpg", "size": 26310, "type": "image/jpeg" }, { "file": "images/europe/handwriting.jpg", "size": 9750, "type": "image/jpeg" }, { "file": "images/europe/hebrew.jpg", "size": 13356, "type": "image/jpeg" }, { "file": "images/europe/heritage.jpg", "size": 5169, "type": "image/jpeg" }, { "file": "images/europe/home.jpg", "size": 12463, "type": "image/jpeg" }, { "file": "images/europe/industral.jpg", "size": 11774, "type": "image/jpeg" }, { "file": "images/europe/ireland-flag.jpg", "size": 3114, "type": "image/jpeg" }, { "file": "images/europe/jc.jpg", "size": 11984, "type": "image/jpeg" }, { "file": "images/europe/jewish-graves.jpg", "size": 26756, "type": "image/jpeg" }, { "file": "images/europe/jfs.jpg", "size": 13899, "type": "image/jpeg" }, { "file": "images/europe/ketubot.jpg", "size": 14052, "type": "image/jpeg" }, { "file": "images/europe/liberty.jpg", "size": 8593, "type": "image/jpeg" }, { "file": "images/europe/loos.jpg", "size": 10999, "type": "image/jpeg" }, { "file": "images/europe/mag-glass.jpg", "size": 10789, "type": "image/jpeg" }, { "file": "images/europe/memorial-de-la-shoah.jpg", "size": 9861, "type": "image/jpeg" }, { "file": "images/europe/mohylivska.jpg", "size": 14236, "type": "image/jpeg" }, { "file": "images/europe/mohyliv_arms.jpg", "size": 25639, "type": "image/jpeg" }, { "file": "images/europe/netherlands-flag.jpg", "size": 3693, "type": "image/jpeg" }, { "file": "images/europe/newspaper.jpg", "size": 17154, "type": "image/jpeg" }, { "file": "images/europe/newyork.jpg", "size": 14348, "type": "image/jpeg" }, { "file": "images/europe/newzealand-flag.jpg", "size": 5835, "type": "image/jpeg" }, { "file": "images/europe/nz-birth-cert.jpg", "size": 10065, "type": "image/jpeg" }, { "file": "images/europe/nz-gazette.jpg", "size": 8007, "type": "image/jpeg" }, { "file": "images/europe/passenger.jpg", "size": 12985, "type": "image/jpeg" }, { "file": "images/europe/raf.jpg", "size": 14417, "type": "image/jpeg" }, { "file": "images/europe/relocation.jpg", "size": 13880, "type": "image/jpeg" }, { "file": "images/europe/roll.jpg", "size": 8794, "type": "image/jpeg" }, { "file": "images/europe/russian-flag.jpg", "size": 3765, "type": "image/jpeg" }, { "file": "images/europe/shamrock.jpg", "size": 25965, "type": "image/jpeg" }, { "file": "images/europe/shtetel.jpg", "size": 12269, "type": "image/jpeg" }, { "file": "images/europe/skala.jpg", "size": 16845, "type": "image/jpeg" }, { "file": "images/europe/soviet-map.jpg", "size": 14532, "type": "image/jpeg" }, { "file": "images/europe/soviet-medals.jpg", "size": 58166, "type": "image/jpeg" }, { "file": "images/europe/star-jewish.jpg", "size": 19282, "type": "image/jpeg" }, { "file": "images/europe/synagogue.jpg", "size": 32079, "type": "image/jpeg" }, { "file": "images/europe/trade.jpg", "size": 11204, "type": "image/jpeg" }, { "file": "images/europe/uk-flag.jpg", "size": 12377, "type": "image/jpeg" }, { "file": "images/europe/ukraine-flag.jpg", "size": 3049, "type": "image/jpeg" }, { "file": "images/europe/viennaparlament.jpg", "size": 34613, "type": "image/jpeg" }, { "file": "images/europe/war-graves.jpg", "size": 15718, "type": "image/jpeg" }, { "file": "images/europe/war.jpg", "size": 18683, "type": "image/jpeg" }, { "file": "images/europe/wedding.jpg", "size": 14597, "type": "image/jpeg" }, { "file": "images/europe/wills.jpg", "size": 7357, "type": "image/jpeg" }, { "file": "images/europe/workhouse.jpg", "size": 9988, "type": "image/jpeg" }, { "file": "images/svg/bookreadingman.svg", "size": 97434, "type": "image/svg+xml" }, { "file": "images/svg/favicon.png", "size": 200521, "type": "image/png" }, { "file": "images/svg/favicon_io.zip", "size": 64172, "type": "application/zip" }, { "file": "images/svg/FX13_robin.svg", "size": 12944, "type": "image/svg+xml" }, { "file": "images/svg/logomanbook.png", "size": 66939, "type": "image/png" }, { "file": "images/svg/logomanrobin.png", "size": 66297, "type": "image/png" }, { "file": "images/svg/logotree.png", "size": 109976, "type": "image/png" }, { "file": "images/svg/logotree.svg", "size": 134165, "type": "image/svg+xml" }, { "file": "images/svg/logotreerobin.png", "size": 240048, "type": "image/png" }, { "file": "images/svg/logotreerobin.svg", "size": 1065244, "type": "image/svg+xml" }, { "file": "images/svg/oaktree.svg", "size": 73414, "type": "image/svg+xml" }, { "file": "images/svg/tree.svg", "size": 30168, "type": "image/svg+xml" }, { "file": "images/svg/tree1.png", "size": 321269, "type": "image/png" }, { "file": "images/svg/tree3.svg", "size": 1198878, "type": "image/svg+xml" }, { "file": "images/svg/favicon_io/android-chrome-192x192.png", "size": 8749, "type": "image/png" }, { "file": "images/svg/favicon_io/android-chrome-512x512.png", "size": 29725, "type": "image/png" }, { "file": "images/svg/favicon_io/apple-touch-icon.png", "size": 7805, "type": "image/png" }, { "file": "images/svg/favicon_io/favicon-16x16.png", "size": 448, "type": "image/png" }, { "file": "images/svg/favicon_io/favicon-32x32.png", "size": 956, "type": "image/png" }, { "file": "images/svg/favicon_io/favicon.ico", "size": 15406, "type": "image/vnd.microsoft.icon" }, { "file": "images/svg/favicon_io/site.webmanifest", "size": 263, "type": "application/manifest+json" }],
+      assets: [{ "file": "favicon.png", "size": 200521, "type": "image/png" }, { "file": "favicon1.png", "size": 1571, "type": "image/png" }, { "file": "images/europe/1939c.jpg", "size": 10018, "type": "image/jpeg" }, { "file": "images/europe/american-flag.jpg", "size": 7845, "type": "image/jpeg" }, { "file": "images/europe/ancestry.jpg", "size": 5902, "type": "image/jpeg" }, { "file": "images/europe/archives.jpg", "size": 29905, "type": "image/jpeg" }, { "file": "images/europe/australia-flag.jpg", "size": 6575, "type": "image/jpeg" }, { "file": "images/europe/austria-flag.jpg", "size": 5889, "type": "image/jpeg" }, { "file": "images/europe/belarus-flag.jpg", "size": 7604, "type": "image/jpeg" }, { "file": "images/europe/belarus-map.jpg", "size": 26169, "type": "image/jpeg" }, { "file": "images/europe/belgium-flag.jpg", "size": 3352, "type": "image/jpeg" }, { "file": "images/europe/britmila.jpg", "size": 18491, "type": "image/jpeg" }, { "file": "images/europe/business.jpg", "size": 3672, "type": "image/jpeg" }, { "file": "images/europe/camps.jpg", "size": 10826, "type": "image/jpeg" }, { "file": "images/europe/canada-flag.jpg", "size": 3747, "type": "image/jpeg" }, { "file": "images/europe/censusireland.jpg", "size": 31898, "type": "image/jpeg" }, { "file": "images/europe/church.jpg", "size": 13236, "type": "image/jpeg" }, { "file": "images/europe/companies.jpg", "size": 11526, "type": "image/jpeg" }, { "file": "images/europe/cyrillic.jpg", "size": 31702, "type": "image/jpeg" }, { "file": "images/europe/database.jpg", "size": 15716, "type": "image/jpeg" }, { "file": "images/europe/dnipropetrovsk_arms.jpg", "size": 26546, "type": "image/jpeg" }, { "file": "images/europe/family-tree.jpg", "size": 16455, "type": "image/jpeg" }, { "file": "images/europe/first.jpg", "size": 9946, "type": "image/jpeg" }, { "file": "images/europe/flame.jpg", "size": 8874, "type": "image/jpeg" }, { "file": "images/europe/french-flag.jpg", "size": 1472, "type": "image/jpeg" }, { "file": "images/europe/gate.jpg", "size": 16290, "type": "image/jpeg" }, { "file": "images/europe/gazette.jpg", "size": 22586, "type": "image/jpeg" }, { "file": "images/europe/gen.jpg", "size": 10614, "type": "image/jpeg" }, { "file": "images/europe/graves.jpg", "size": 26310, "type": "image/jpeg" }, { "file": "images/europe/handwriting.jpg", "size": 9750, "type": "image/jpeg" }, { "file": "images/europe/hebrew.jpg", "size": 13356, "type": "image/jpeg" }, { "file": "images/europe/heritage.jpg", "size": 5169, "type": "image/jpeg" }, { "file": "images/europe/home.jpg", "size": 12463, "type": "image/jpeg" }, { "file": "images/europe/industral.jpg", "size": 11774, "type": "image/jpeg" }, { "file": "images/europe/ireland-flag.jpg", "size": 3114, "type": "image/jpeg" }, { "file": "images/europe/jc.jpg", "size": 11984, "type": "image/jpeg" }, { "file": "images/europe/jewish-graves.jpg", "size": 26756, "type": "image/jpeg" }, { "file": "images/europe/jfs.jpg", "size": 13899, "type": "image/jpeg" }, { "file": "images/europe/ketubot.jpg", "size": 14052, "type": "image/jpeg" }, { "file": "images/europe/liberty.jpg", "size": 8593, "type": "image/jpeg" }, { "file": "images/europe/loos.jpg", "size": 10999, "type": "image/jpeg" }, { "file": "images/europe/mag-glass.jpg", "size": 10789, "type": "image/jpeg" }, { "file": "images/europe/memorial-de-la-shoah.jpg", "size": 9861, "type": "image/jpeg" }, { "file": "images/europe/mohylivska.jpg", "size": 14236, "type": "image/jpeg" }, { "file": "images/europe/mohyliv_arms.jpg", "size": 25639, "type": "image/jpeg" }, { "file": "images/europe/netherlands-flag.jpg", "size": 3693, "type": "image/jpeg" }, { "file": "images/europe/newspaper.jpg", "size": 17154, "type": "image/jpeg" }, { "file": "images/europe/newyork.jpg", "size": 14348, "type": "image/jpeg" }, { "file": "images/europe/newzealand-flag.jpg", "size": 5835, "type": "image/jpeg" }, { "file": "images/europe/nz-birth-cert.jpg", "size": 10065, "type": "image/jpeg" }, { "file": "images/europe/nz-gazette.jpg", "size": 8007, "type": "image/jpeg" }, { "file": "images/europe/passenger.jpg", "size": 12985, "type": "image/jpeg" }, { "file": "images/europe/raf.jpg", "size": 14417, "type": "image/jpeg" }, { "file": "images/europe/relocation.jpg", "size": 13880, "type": "image/jpeg" }, { "file": "images/europe/roll.jpg", "size": 8794, "type": "image/jpeg" }, { "file": "images/europe/russian-flag.jpg", "size": 3765, "type": "image/jpeg" }, { "file": "images/europe/shamrock.jpg", "size": 25965, "type": "image/jpeg" }, { "file": "images/europe/shtetel.jpg", "size": 12269, "type": "image/jpeg" }, { "file": "images/europe/skala.jpg", "size": 16845, "type": "image/jpeg" }, { "file": "images/europe/soviet-map.jpg", "size": 14532, "type": "image/jpeg" }, { "file": "images/europe/soviet-medals.jpg", "size": 58166, "type": "image/jpeg" }, { "file": "images/europe/star-jewish.jpg", "size": 19282, "type": "image/jpeg" }, { "file": "images/europe/synagogue.jpg", "size": 32079, "type": "image/jpeg" }, { "file": "images/europe/trade.jpg", "size": 11204, "type": "image/jpeg" }, { "file": "images/europe/uk-flag.jpg", "size": 12377, "type": "image/jpeg" }, { "file": "images/europe/ukraine-flag.jpg", "size": 3049, "type": "image/jpeg" }, { "file": "images/europe/viennaparlament.jpg", "size": 34613, "type": "image/jpeg" }, { "file": "images/europe/war-graves.jpg", "size": 15718, "type": "image/jpeg" }, { "file": "images/europe/war.jpg", "size": 18683, "type": "image/jpeg" }, { "file": "images/europe/wedding.jpg", "size": 14597, "type": "image/jpeg" }, { "file": "images/europe/wills.jpg", "size": 7357, "type": "image/jpeg" }, { "file": "images/europe/workhouse.jpg", "size": 9988, "type": "image/jpeg" }, { "file": "images/logo youtube.jpg", "size": 485909, "type": "image/jpeg" }, { "file": "images/logo.png", "size": 311689, "type": "image/png" }, { "file": "images/logotree.png", "size": 109976, "type": "image/png" }, { "file": "images/logotree.svg", "size": 134165, "type": "image/svg+xml" }, { "file": "images/logotreerobin.png", "size": 329212, "type": "image/png" }, { "file": "images/logotreerobin.svg", "size": 1065244, "type": "image/svg+xml" }, { "file": "images/square.png", "size": 513, "type": "image/png" }, { "file": "images/svg/bookreadingman.svg", "size": 97434, "type": "image/svg+xml" }, { "file": "images/svg/favicon.png", "size": 200521, "type": "image/png" }, { "file": "images/svg/favicon_io/android-chrome-192x192.png", "size": 8749, "type": "image/png" }, { "file": "images/svg/favicon_io/android-chrome-512x512.png", "size": 29725, "type": "image/png" }, { "file": "images/svg/favicon_io/apple-touch-icon.png", "size": 7805, "type": "image/png" }, { "file": "images/svg/favicon_io/favicon-16x16.png", "size": 448, "type": "image/png" }, { "file": "images/svg/favicon_io/favicon-32x32.png", "size": 956, "type": "image/png" }, { "file": "images/svg/favicon_io/favicon.ico", "size": 15406, "type": "image/vnd.microsoft.icon" }, { "file": "images/svg/favicon_io/site.webmanifest", "size": 263, "type": "application/manifest+json" }, { "file": "images/svg/favicon_io.zip", "size": 64172, "type": "application/zip" }, { "file": "images/svg/FX13_robin.svg", "size": 12944, "type": "image/svg+xml" }, { "file": "images/svg/logomanbook.png", "size": 66939, "type": "image/png" }, { "file": "images/svg/logomanrobin.png", "size": 66297, "type": "image/png" }, { "file": "images/svg/logotree.png", "size": 109976, "type": "image/png" }, { "file": "images/svg/logotree.svg", "size": 134165, "type": "image/svg+xml" }, { "file": "images/svg/logotreerobin.png", "size": 240048, "type": "image/png" }, { "file": "images/svg/logotreerobin.svg", "size": 1065244, "type": "image/svg+xml" }, { "file": "images/svg/oaktree.svg", "size": 73414, "type": "image/svg+xml" }, { "file": "images/svg/tree.svg", "size": 30168, "type": "image/svg+xml" }, { "file": "images/svg/tree1.png", "size": 321269, "type": "image/png" }, { "file": "images/svg/tree3.svg", "size": 1198878, "type": "image/svg+xml" }],
       layout: "src/routes/__layout.svelte",
       error: ".svelte-kit/build/components/error.svelte",
       routes: [
@@ -6696,13 +6695,13 @@ ${``}`;
       externalFetch: hooks.externalFetch || fetch
     });
     module_lookup = {
-      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_13dbac4d(), layout_13dbac4d_exports)),
-      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_f13fcd67(), error_f13fcd67_exports)),
-      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_0b8938d7(), index_0b8938d7_exports)),
-      "src/routes/newzealand.svelte": () => Promise.resolve().then(() => (init_newzealand_83915d9d(), newzealand_83915d9d_exports)),
-      "src/routes/australia.svelte": () => Promise.resolve().then(() => (init_australia_c7714892(), australia_c7714892_exports))
+      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_767692fa(), layout_767692fa_exports)),
+      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_bfa0015c(), error_bfa0015c_exports)),
+      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_8643a801(), index_8643a801_exports)),
+      "src/routes/newzealand.svelte": () => Promise.resolve().then(() => (init_newzealand_b5f3bd45(), newzealand_b5f3bd45_exports)),
+      "src/routes/australia.svelte": () => Promise.resolve().then(() => (init_australia_2cd06246(), australia_2cd06246_exports))
     };
-    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-38d49be7.js", "css": ["assets/pages/__layout.svelte-1cb04902.css"], "js": ["pages/__layout.svelte-38d49be7.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-3aac330e.js", "css": [], "js": ["error.svelte-3aac330e.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-4ed49659.js", "css": ["assets/pages/index.svelte-3b776db4.css"], "js": ["pages/index.svelte-4ed49659.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/newzealand.svelte": { "entry": "pages/newzealand.svelte-0b6576b4.js", "css": ["assets/pages/newzealand.svelte-81ba39d7.css"], "js": ["pages/newzealand.svelte-0b6576b4.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/australia.svelte": { "entry": "pages/australia.svelte-466f2b7c.js", "css": ["assets/pages/australia.svelte-b349f3b9.css"], "js": ["pages/australia.svelte-466f2b7c.js", "chunks/vendor-dad3c69f.js"], "styles": [] } };
+    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-ce9cf9d6.js", "css": ["assets/pages/__layout.svelte-1cb04902.css"], "js": ["pages/__layout.svelte-ce9cf9d6.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-482d185c.js", "css": [], "js": ["error.svelte-482d185c.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-f0099213.js", "css": ["assets/pages/index.svelte-3b776db4.css"], "js": ["pages/index.svelte-f0099213.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/newzealand.svelte": { "entry": "pages/newzealand.svelte-013e7d13.js", "css": ["assets/pages/newzealand.svelte-81ba39d7.css"], "js": ["pages/newzealand.svelte-013e7d13.js", "chunks/vendor-dad3c69f.js"], "styles": [] }, "src/routes/australia.svelte": { "entry": "pages/australia.svelte-f11487ce.js", "css": ["assets/pages/australia.svelte-b349f3b9.css"], "js": ["pages/australia.svelte-f11487ce.js", "chunks/vendor-dad3c69f.js"], "styles": [] } };
   }
 });
 
@@ -6714,7 +6713,7 @@ init_shims();
 
 // .svelte-kit/output/server/app.js
 init_shims();
-init_app_f3b4583b();
+init_app_54c7accc();
 
 // .svelte-kit/netlify/entry.js
 init();
