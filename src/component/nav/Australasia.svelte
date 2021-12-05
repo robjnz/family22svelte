@@ -23,7 +23,7 @@
 		</li>
 
 		<li class="rounded-sm px-3 py-1 hover:bg-gray-100">
-			<a class="text-gray-900 hover:text-yellow-600" href="/newzealand">New Zealand</a>
+			<a class="text-gray-900 hover:text-yellow-600" href="/wellington">New Zealand</a>
 		</li>
 	</ul>
 </div>
