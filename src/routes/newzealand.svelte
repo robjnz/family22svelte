@@ -5,7 +5,7 @@
 	import Companies from '/src/component/australasia/newzealand/Companies.svelte';
 	import Gazette from '/src/component/australasia/newzealand/Gazette.svelte';
 	import Historical from '/src/component/australasia/newzealand/Historical.svelte';
-	import State from '/src/component/australasia/newzealand/State.svelte';
+	import Nzstate from '/src/component/australasia/newzealand/Nzstate.svelte';
 
 </script>
 
@@ -32,7 +32,7 @@
 
     <div class="grid sm:flex gap-4 mt-8 one">
     <Historical />
-    <State />
+    <Nzstate />
     </div>
 </section>
 

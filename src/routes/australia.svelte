@@ -1,8 +1,8 @@
 <script context="module">
 	export const prerender = true;
 
-	import GenSA from '/src/component/australasia/australia/GenSA.svelte';
-	import State from '/src/component/australasia/australia/State.svelte';
+	import Gen from '/src/component/australasia/australia/Gen.svelte';
+	import Ausstate from '/src/component/australasia/australia/Ausstate.svelte';
 </script>
 
 <svelte:head>
@@ -21,8 +21,8 @@
 	<br />
 
 	<div class="grid sm:flex gap-4 mt-20 one">
-		<GenSA />
-		<State />
+		<Gen />
+		<Ausstate />
 	</div>
 </section>
 
