@@ -19,11 +19,11 @@
   transition duration-150 ease-in-out origin-top min-w-32"
 	>
 		<li class="rounded-sm px-3 py-1 hover:bg-gray-100">
-			<a class="text-gray-900 hover:text-yellow-600" href="/Australasia/australia">Australia</a>
+			<a class="text-gray-900 hover:text-yellow-600" href="/australia">Australia</a>
 		</li>
 
 		<li class="rounded-sm px-3 py-1 hover:bg-gray-100">
-			<a class="text-gray-900 hover:text-yellow-600" href="/Australasia/newzealand">New Zealand</a>
+			<a class="text-gray-900 hover:text-yellow-600" href="/newzealand">New Zealand</a>
 		</li>
 	</ul>
 </div>

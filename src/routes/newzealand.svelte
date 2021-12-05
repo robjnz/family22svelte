@@ -1,11 +1,11 @@
 <script context="module">
 	export const prerender = true;
 
-	import Auckland from '/src/component/Australasia/Newzealand/Auckland.svelte';
-	import Companies from '/src/component/Australasia/Newzealand/Companies.svelte';
-	import Gazette from '/src/component/Australasia/Newzealand/Gazette.svelte';
-	import Historical from '/src/component/Australasia/Newzealand/Historical.svelte';
-	import State from '/src/component/Australasia/Newzealand/State.svelte';
+	import Auckland from '/src/component/australasia/newzealand/Auckland.svelte';
+	import Companies from '/src/component/australasia/newzealand/Companies.svelte';
+	import Gazette from '/src/component/australasia/newzealand/Gazette.svelte';
+	import Historical from '/src/component/australasia/newzealand/Historical.svelte';
+	import State from '/src/component/australasia/newzealand/State.svelte';
 
 </script>
 

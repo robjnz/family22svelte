@@ -1,8 +1,8 @@
 <script context="module">
 	export const prerender = true;
 
-	import GenSA from '/src/component/Australasia/Australia/GenSA.svelte';
-	import State from '/src/component/Australasia/Australia/State.svelte';
+	import GenSA from '/src/component/australasia/australia/GenSA.svelte';
+	import State from '/src/component/australasia/australia/State.svelte';
 </script>
 
 <svelte:head>
