@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Austalia</title>
+	<title>Australia</title>
 </svelte:head>
 
 <section class="one">
