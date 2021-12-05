@@ -15,11 +15,7 @@
 
 <section class="one">
 	<h1 class="ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl">
-		<img
-			class="h-10 w-14 inline-block"
-			src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638702403/newzealand-flag_w7h9cg.jpg"
-			alt="image of new zealand flag"
-		/>
+		
 		New Zealand Family History Resourses
 	</h1>
 	<br />
